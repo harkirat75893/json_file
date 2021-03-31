@@ -1,0 +1,30 @@
+{
+    "weirdDeals":
+    [
+        {
+            "item": "pre-fabricated homes",
+            "price": 36000,
+            "image" : "home.jpg"
+        },
+        {
+            "item": "1500 live ladybug",
+            "price": 3.05,
+            "image" : "ladybugs.jpg"
+        },
+        {
+            "item": "uranium-ore",
+            "price": 39.95,
+            "image" : "uranium.jpg"
+        },
+        {
+            "item": "cat butt tissue holder",
+            "price": 39.94,
+            "image" : "cat.jpg"
+        },
+        {
+            "item": "pizza hat",
+            "price": 11.62,
+            "image" : "pizza_hat.jpg"
+        }
+    ]
+}
